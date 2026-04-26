@@ -40,6 +40,6 @@ python main.py
 
 ## 📊 Output Graph
 
-![Budget vs Actual](images/graph.png)
+![Budget vs Actual](Comparison graph in python.png)
 # Expenses_Anlyzer
 Python-based personal finance analysis project using Excel data
